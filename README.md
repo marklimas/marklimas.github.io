@@ -32,24 +32,24 @@
   </header>
   <main>
   <a href="https://devexperts.com/dxcharts" class="work">
-    <img src="works/chart.png">
+    <img src="chart.png">
     <p class="caption">Chart, platform for technical analysis</p>
   </a>
 
   <a href="mr.html" class="work">
   <video width="100%" height="100%" autoplay muted loop>
-    <source src="works/MR/MR8.mp4" type="video/mp4">
+    <source src="MR8.mp4" type="video/mp4">
   </video>
   <p class="caption">Trading platform for the cryptocommunity</p>
   </a>
   
   <a href="#" class="work">
-    <img src="works/kcal.png">
+    <img src="kcal.png">
     <p class="caption">Healthy eating tracker</p>
   </a>
 
   <a href="#" class="work">
-    <img src="works/stupor.png">
+    <img src="stupor.png">
     <p class="caption">Knowledge expander</p>
   </a>
   </main>
